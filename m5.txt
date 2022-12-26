@@ -1,2 +1,6 @@
 This is github session.
+<<<<<<< HEAD
 In SF3.
+=======
+IN SF3
+>>>>>>> KLU1
